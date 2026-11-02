@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Eddy – aka @Eddy031094
+# 👋 Hey there, I’m Etienne Bloch – aka @Eddy031094
 
 Welcome to my GitHub profile! I'm a passionate mobile developer with a heart for clean code, secure communication, and creating engaging mobile experiences.
 
